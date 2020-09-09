@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="hello_world">Hello World!!!</string>
+    <string name="text">Name</string>
+    <string name="radiobutton1">RadioButton</string>
+</resources>
